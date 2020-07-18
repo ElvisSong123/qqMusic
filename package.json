@@ -337,7 +337,7 @@
     "isobject": "^3.0.1",
     "is-unc-path": "^1.0.0",
     "liftoff": "^2.5.0",
-    "lodash": "^1.0.2",
+    "lodash": "^4.17.19",
     "kind-of": "^6.0.2",
     "is-plain-object": "^2.0.4",
     "lodash._basecopy": "^3.0.1",
